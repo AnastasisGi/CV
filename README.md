@@ -46,27 +46,14 @@ Import sea dept. operator / Logistic operator
 
 ## Skills
 
-- Multitasking: In my current profession I am reqired to work simuteanusly 
--  
-- Liasing with people
-- Working in highly demanding environments, 
-- Meeting deadlines, 
-- Attention to detail. 
+- Multitasking:  It's my work requirement to work on different tasks on a day to day basis. A recent example of that is working on sea export shipments while performing Brexit export clearances to ensure smooth business operation. I have learnt to organize and then prioritize  the tasks of the day, maintain up to date records and coordinating the multiple parties within the supply chain. Multitasking can be draining and mentally exhausting. Taking breaks is important for my well being and to allow head space for regular reviews of the day plan.
 
-#### This Skill
+-  Effective liaison: At the core of my current job is the effective coordination of multiple parties. This means identifying who needs to be involved when and how; communicating effectively the needs and demands of customers, agents, suppliers and vendors; managing and negotiating expectations of tasks at hand by responding promptly to emails and phone calls with frequent visits to the warehouse to supervise the operations. Maintaining a calm, friendly but professional manner has helped me work through the challenges of managing and resolving complaints.
 
-- Experience
-- Achievements
-- Evidence
+- Teamwork: At my current position, I am the only senior export operator in my department. This means I manage my own schedule.  However, I am part of a chain which is heavily dependent on each link trusting the next one to get the work done. I have covered for gaps at different departments until replacement was found, covered weekend shifts or helped in logistical operations (warehouse).
 
-#### Another Skill
+-Highly motivated: Although I am established in my career and I have extensive experience in my field, I am longing to learn, expand and develop. I left Greece with the hope to gain not just professional experience but life lessons. I am not afraid of being challenged or working under stress. I want to keep learning and hope to use my current experience to help me transition into software development and into a more creative, expanding field within a constantly developing industry. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
