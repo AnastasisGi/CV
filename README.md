@@ -79,6 +79,3 @@ Import sea dept. operator / Logistic operator
 
 - PRINCE2® Practitioner Certificate in Project Management (09/2019)
 
- 
-## Hobbies
-
