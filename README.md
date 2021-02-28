@@ -42,18 +42,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (07/2020 to 02/2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Jest
 
-#### Your University / College (start_date to end_date)
+#### PRINCE2® Practitioner Certificate in Project Management
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### American College of Greece (MBA courses 01/2011 to 09/2011)
+
+- Operations management, Business Research Methods, Quantitative methods, Financial management
+
+#### University of Glamorgan in Wales (09/1996 to 09/1999)
+
+- BSc: Business Studies 
+
 
 #### Any other qualifications
 
