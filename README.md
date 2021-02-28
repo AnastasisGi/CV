@@ -13,7 +13,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Rps-challenge**            |Rock-Paper-Scissors Game |Ruby,Sinatra,Rspec,capybara,rubocop,simplecov|https://github.com/AnastasisGi/rps-challenge|
 | **Makersbnb-project**|A vacation rental online marketplace, any signed-up user can list a new space. . Users should be able to offer a range of dates where their space is available. |rspec,capybara,sinatra,sinatra-activerecord,psql,bcrypt|https://github.com/AnastasisGi/Makersbnb-project|
 |**Bowling Challenge**|         |JS,Jasmine|https://github.com/AnastasisGi/bowling-challenge|
-|****|JS-project-quote-generator|JS,Jasmine,API,CSS|https://github.com/AnastasisGi/JS-project-quote-generator-II|
+|**JS-project-quote-generator**|Fething the data in JSON format from the API https://type.fit/api/quotes and saving it in a variable. Dynamically inserting a random quote into the DOM on initial loading. User is able to load a new quote on a button 'New Quote" click. User is able to tweet the quote if he liked it on a 'Twitter' button click.|JS,Jasmine,API,CSS|https://github.com/AnastasisGi/JS-project-quote-generator-II|
 
 
 ## Experience
