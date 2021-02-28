@@ -7,7 +7,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | Name                         | Description       | Tech/tools        |                 |
 | ---------------------------- | ----------------- | ----------------- |-----------------|
 | **Final project**            | A webapp to do x. | React, Jest, etc. |                 |
-| **Something else worked on** | A webapp to do y. | Ruby              |                 |
+| **AceBook** | Acebook is an imitation social media app, built as a practice project | Ruby on Rails with Devise,PostgresSQL,CircleCI,Heroku,RSpec, SimpleCov, Rubocop        |https://github.com/AnastasisGi/acebook-The_Part_Time_Peeps                 |
 | **Takeaway challenge**       |                   | Ruby , Rspec      | https://github.com/AnastasisGi/Takeaway_chall_rspecII|
 | **Airport Challenge**        |                   | JS, Jasmine       | https://github.com/AnastasisGi/Airport-challenge-in-Javascript-II|
 
