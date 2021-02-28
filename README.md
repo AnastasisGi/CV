@@ -46,7 +46,8 @@ Import sea dept. operator / Logistic operator
 
 ## Skills
 
-- Multitasking
+- Multitasking: In my current profession I am reqired to work simuteanusly 
+-  
 - Liasing with people
 - Working in highly demanding environments, 
 - Meeting deadlines, 
@@ -88,7 +89,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications / Seminars
 
-### PRINCE2® Practitioner Certificate in Project Management (09/2019)
+- PRINCE2® Practitioner Certificate in Project Management (09/2019)
 
  
 ## Hobbies
