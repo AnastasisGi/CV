@@ -10,6 +10,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **AceBook** | Acebook is an imitation social media app, built as a practice project | Ruby on Rails with Devise,PostgresSQL,CircleCI,Heroku,RSpec, SimpleCov, Rubocop        |https://github.com/AnastasisGi/acebook-The_Part_Time_Peeps                 |
 | **Takeaway challenge**       |                   | Ruby , Rspec      | https://github.com/AnastasisGi/Takeaway_chall_rspecII|
 | **Airport Challenge**        |                   | JS, Jasmine       | https://github.com/AnastasisGi/Airport-challenge-in-Javascript-II|
+| **Rps-challenge**            |Rock-Paper-Scissors Game |Ruby,Sinatra,Rspec,capybara,rubocop,simplecov|https://github.com/AnastasisGi/rps-challenge|
 
 
 ## Experience
