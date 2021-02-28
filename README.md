@@ -11,8 +11,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Mentfield (UK) Ltd** (12/2018 – present)  
+_Sea Export senior ops/Supervisor(present), Air import perishable dept. operations  
+_
 
 - Any experience relevent to software development
 
@@ -49,7 +50,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Jest 
 
-#### PRINCE2® Practitioner Certificate in Project Management
 
 #### American College of Greece (MBA courses 01/2011 to 09/2011)
 
@@ -62,8 +62,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+### PRINCE2® Practitioner Certificate in Project Management (09/2019)
  
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
