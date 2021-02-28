@@ -47,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine, Jest
+- RSpec, Jasmine, Jest 
 
 #### PRINCE2® Practitioner Certificate in Project Management
 
