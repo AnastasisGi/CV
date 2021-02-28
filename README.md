@@ -52,7 +52,7 @@ Import sea dept. operator / Logistic operator
 
 - Teamwork: At my current position, I am the only senior export operator in my department. This means I manage my own schedule.  However, I am part of a chain which is heavily dependent on each link trusting the next one to get the work done. I have covered for gaps at different departments until replacement was found, covered weekend shifts or helped in logistical operations (warehouse).
 
--Highly motivated: Although I am established in my career and I have extensive experience in my field, I am longing to learn, expand and develop. I left Greece with the hope to gain not just professional experience but life lessons. I am not afraid of being challenged or working under stress. I want to keep learning and hope to use my current experience to help me transition into software development and into a more creative, expanding field within a constantly developing industry. 
+- Highly motivated: Although I am established in my career and I have extensive experience in my field, I am longing to learn, expand and develop. I left Greece with the hope to gain not just professional experience but life lessons. I am not afraid of being challenged or working under stress. I want to keep learning and hope to use my current experience to help me transition into software development and into a more creative, expanding field within a constantly developing industry. 
 
 
 ## Education
@@ -63,6 +63,7 @@ Import sea dept. operator / Logistic operator
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Jest 
+- CI, Github Actions 
 
 
 #### American College of Greece (MBA courses 01/2011 to 09/2011)
