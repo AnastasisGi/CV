@@ -29,7 +29,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 - export road freight operations
 - Sea import perishables account operations
 
-
+ 
 **Giokas International Forwarding Ltd (Greece)** (01/2013 to 03/2015)  
 - General Manager
 
