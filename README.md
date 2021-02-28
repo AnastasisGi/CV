@@ -15,33 +15,42 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 Sea Export senior ops/Supervisor(present), Air import perishable dept. operations.
 Road freight export customs clearances(Brexit)
 
+
 **Recom Solar (Greece)** (08/2018 to 11/2018)  
 Logistics manager
 
+
 **Mentfield (UK) Ltd** (02/2016 to 05/2018)  
-Export Sea dept. operator, Import  &					export road freight operations, Sea import perishables account operations .
+Export Sea dept. operator, Import  &		export road freight operations, Sea import perishables account operations.
 
 
-**Gkiokas International Forwarding Ltd (Greece)** (01/2013 to 03/2015)  
+**Giokas International Forwarding Ltd (Greece)** (01/2013 to 03/2015)  
 General Manager
+
 
 **Dim. El. Kommatas S.A. (Greece)** (03/2012 to 09/2012)  
 Warehouse supervisor, Sea department ops/supervisor 
+
 
 **Best Quality SA (Greece)** (07/2010 to 01/2012)  
 Air traffic manager, Warehouse supervisor 
-
-**Dim. El. Kommatas S.A. (Greece)** (03/2012 to 09/2012)  
-Warehouse supervisor, Sea department ops/supervisor 
 
 
 **Eurogroup S.A. (Greece)** (08/2001 to 07/2010)  
 Road traffic ops/supervisor, Logistic supervisor, Export/Import Sea department supervisor, Assistant managing director
 
 
+**Eurogroup Piraeus Ltd (Greece)** (01/1997 to 12/1999)  
+Import sea dept. operator / Logistic operator 
+
+
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- Multitasking
+- Liasing with people
+- Working in highly demanding environments, 
+- Meeting deadlines, 
+- Attention to detail. 
 
 #### This Skill
 
@@ -77,9 +86,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BSc: Business Studies 
 
 
-#### Any other qualifications
+#### Any other qualifications / Seminars
 
 ### PRINCE2® Practitioner Certificate in Project Management (09/2019)
+
  
 ## Hobbies
 
