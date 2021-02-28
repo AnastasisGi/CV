@@ -8,7 +8,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | ---------------------------- | ----------------- | ----------------- |-----------------|
 | **Final project**            | A webapp to do x. | React, Jest, etc. |                 |
 | **Something else worked on** | A webapp to do y. | Ruby              |                 |
-| **Takeaway challenge**.      |                   | Ruby , Rspec      | https://github.com/AnastasisGi/Takeaway_chall_rspecII|
+| **Takeaway challenge**       |                   | Ruby , Rspec      | https://github.com/AnastasisGi/Takeaway_chall_rspecII|
+| **Airport Challenge**        |                   | JS, Jasmine       | https://github.com/AnastasisGi/Airport-challenge-in-Javascript-II|
+
 
 ## Experience
 
