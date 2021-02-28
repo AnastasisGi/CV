@@ -18,7 +18,7 @@ Road freight export customs clearances(Brexit)
 **Recom Solar (Greece)** (08/2018 to 11/2018)  
 Logistics manager
 
-**Mentfield (UK) Ltd ** (02/2016 to 05/2018)  
+**Mentfield (UK) Ltd** (02/2016 to 05/2018)  
 Export Sea dept. operator, Import  &					export road freight operations, Sea import perishables account operations .
 
 
