@@ -12,7 +12,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 ## Experience
 
 **Mentfield (UK) Ltd** (12/2018 – present)  
-- Sea Export senior ops/Supervisor(present), Air import perishable dept. operations.
+- Sea Export senior ops/Supervisor(present)
+- Air import perishable dept. operations
 - Road freight export customs clearances(Brexit)
 
 
@@ -21,27 +22,36 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 
 **Mentfield (UK) Ltd** (02/2016 to 05/2018)  
-- Export Sea dept. operator, Import  &		export road freight operations, Sea import perishables account operations.
+- Export Sea dept. operator, Import  	
+- export road freight operations
+- Sea import perishables account operations
 
 
 **Giokas International Forwarding Ltd (Greece)** (01/2013 to 03/2015)  
 - General Manager
 
 
-- **Dim. El. Kommatas S.A. (Greece)** (03/2012 to 09/2012)  
-Warehouse supervisor, Sea department ops/supervisor 
+**Dim. El. Kommatas S.A. (Greece)** (03/2012 to 09/2012)  
+- Warehouse supervisor
+- Sea department ops/supervisor 
 
 
-- **Best Quality SA (Greece)** (07/2010 to 01/2012)  
-Air traffic manager, Warehouse supervisor 
+**Best Quality SA (Greece)** (07/2010 to 01/2012)  
+- Air traffic manager
+- Warehouse supervisor 
 
 
-- **Eurogroup S.A. (Greece)** (08/2001 to 07/2010)  
-Road traffic ops/supervisor, Logistic supervisor, Export/Import Sea department supervisor, Assistant managing director
+**Eurogroup S.A. (Greece)** (08/2001 to 07/2010)  
+- Road traffic ops/supervisor
+- Logistic supervisor
+- Export/Import 
+- Sea department supervisor
+- Assistant managing director
 
 
 **Eurogroup Piraeus Ltd (Greece)** (01/1997 to 12/1999)  
-Import sea dept. operator / Logistic operator 
+- Import sea dept. operator 
+- Logistic operator 
 
 
 ## Skills
