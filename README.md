@@ -11,7 +11,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Takeaway challenge**       |                   | Ruby , Rspec      | https://github.com/AnastasisGi/Takeaway_chall_rspecII|
 | **Airport Challenge**        |                   | JS, Jasmine       | https://github.com/AnastasisGi/Airport-challenge-in-Javascript-II|
 | **Rps-challenge**            |Rock-Paper-Scissors Game |Ruby,Sinatra,Rspec,capybara,rubocop,simplecov|https://github.com/AnastasisGi/rps-challenge|
-| **Makersbnb-project**|Any signed-up user can list a new space. Users can list multiple spaces. Users should be able to name their space, provide a short description of the space, and a price per night. Users should be able to offer a range of dates where their space is available. |rspec,capybara,sinatra,sinatra-activerecord,psql,bcrypt|https://github.com/AnastasisGi/Makersbnb-project|
+| **Makersbnb-project**|A vacation rental online marketplace, any signed-up user can list a new space. . Users should be able to offer a range of dates where their space is available. |rspec,capybara,sinatra,sinatra-activerecord,psql,bcrypt|https://github.com/AnastasisGi/Makersbnb-project|
 
 
 
