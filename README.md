@@ -39,7 +39,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **Best Quality SA (Greece)** (07/2010 to 01/2012)  
 - Air traffic manager
 - Warehouse supervisor 
-
+ 
 
 **Eurogroup S.A. (Greece)** (08/2001 to 07/2010)  
 - Road traffic ops/supervisor
