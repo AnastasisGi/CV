@@ -12,7 +12,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Airport Challenge**        |                   | JS, Jasmine       | https://github.com/AnastasisGi/Airport-challenge-in-Javascript-II|
 | **Rps-challenge**            |Rock-Paper-Scissors Game |Ruby,Sinatra,Rspec,capybara,rubocop,simplecov|https://github.com/AnastasisGi/rps-challenge|
 | **Makersbnb-project**|A vacation rental online marketplace, any signed-up user can list a new space. . Users should be able to offer a range of dates where their space is available. |rspec,capybara,sinatra,sinatra-activerecord,psql,bcrypt|https://github.com/AnastasisGi/Makersbnb-project|
-
+|**Bowling Challenge**|         |JS,Jasmine|https://github.com/AnastasisGi/bowling-challenge|
 
 
 
