@@ -1,7 +1,6 @@
 ## Anastasios Gkiokas
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
+I have 20+ years of experience in  the supply chain and have worked on all aspects  of the supply network (road, sea, air and logistics) ranging from freight forwarding to commercial. I am a keen learner, not afraid of challenging myself in order to progress and I am always seeking to build on my current  knowledge and experience. I hope to bring my technical skills from the supply chain into the creative field of software development and be part of this expanding field within a constantly developing industry. 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |                 |
