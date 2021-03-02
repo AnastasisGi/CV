@@ -42,7 +42,7 @@ I have 20+ years of experience in  the supply chain and have worked on all aspec
 - Air traffic manager
 - Warehouse supervisor 
  
-
+ 
 **Eurogroup S.A. (Greece)** (08/2001 to 07/2010)  
 - Road traffic ops/supervisor
 - Logistic supervisor
