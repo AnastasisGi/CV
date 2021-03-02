@@ -75,7 +75,9 @@ I have 20+ years of experience in  the supply chain and have worked on all aspec
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Jest 
-- CI, Github Actions 
+- CircleCI, Github Actions
+- Heroku
+ 
 
 
 #### American College of Greece (MBA courses 01/2011 to 09/2011)
