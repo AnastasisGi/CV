@@ -5,7 +5,7 @@ I have 20+ years of experience in  the supply chain and have worked on all aspec
 
 | Name                         | Description       | Tech/tools        |                 |
 | ----------------------------------------- | ----------------- | ----------------- |-----------------|
-| **Final project**            | A webapp to do x. | React, Jest, etc. |                 |
+| **vaccine-vs-virus**            | A Snake vs. Block style game, with a pandemic twist.| JS,Heroku,Sinatra Jest | https://github.com/AnastasisGi/vaccine-vs-virus                |
 | **AceBook** | Acebook is an imitation social media app, built as a practice project | Ruby on Rails with Devise,PostgresSQL,CircleCI,Heroku,RSpec, SimpleCov, Rubocop        |https://github.com/AnastasisGi/acebook-The_Part_Time_Peeps                 |
 | **Takeaway challenge**       |                   | Ruby , Rspec      | https://github.com/AnastasisGi/Takeaway_chall_rspecII|
 
