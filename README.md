@@ -74,10 +74,10 @@ I have 20+ years of experience in  the supply chain and have worked on all aspec
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine, Jest 
+- RSpec, Jasmine, Jest, Enzyme
 - CircleCI, Github Actions
 - Heroku
- 
+- React
 
 
 #### American College of Greece (MBA courses 01/2011 to 09/2011)
