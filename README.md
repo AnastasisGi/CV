@@ -9,6 +9,7 @@ I have 20+ years of experience in  the supply chain and have worked on all aspec
 | **AceBook** | Acebook is an imitation social media app, built as a practice project | Ruby on Rails with Devise,PostgresSQL,CircleCI,Heroku,RSpec, SimpleCov, Rubocop        |https://github.com/AnastasisGi/acebook-The_Part_Time_Peeps                 |
 | **Takeaway challenge**       |                   | Ruby , Rspec      | https://github.com/AnastasisGi/Takeaway_chall_rspecII|
 |**Bucket List** | A collection of goals, dreams and aspirations that you would like to accomplish within your lifetime |React, Jest, Enzyme| https://github.com/AnastasisGi/Bucket (In progress) |
+| **Bank Tech Test** | A program that will allow a user to interact with a simple bank account (create account, deposit/withdraw money and get a statement) | https://github.com/AnastasisGi/Bank_tech_TDD_rb |
 
 
 
