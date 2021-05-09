@@ -1,6 +1,8 @@
 ## Anastasios Gkiokas
 
-I have 20+ years of experience in  the supply chain and have worked on all aspects  of the supply network (road, sea, air and logistics) ranging from freight forwarding to commercial. I am a keen learner, not afraid of challenging myself in order to progress and I am always seeking to build on my current  knowledge and experience. I hope to bring my technical skills from the supply chain into the creative field of software development and be part of this expanding field within a constantly developing industry. 
+I am a Makers academy graduate looking to bring my existing qualifications and experience into software development. I have significant experience working in the supply chain industry but have always been a tech-enthusiast and a keen problem-solver. Software development has further  informed my curiosity about future technologies and my need for constant learning.
+I hope to merge my technical skills from the supply chain background into the field of software development and be part of a constantly developing industry of creative solutions. 
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |                 |
